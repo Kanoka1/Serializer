@@ -1,0 +1,6 @@
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+c:\users\маринка\documents\visual studio 2017\Projects\DLLSerializer\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
